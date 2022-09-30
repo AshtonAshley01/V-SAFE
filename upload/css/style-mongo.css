@@ -186,6 +186,7 @@
 
 .emoji {
   display: flex;
+  margin-top: 16px;
 }
 
 .chat-controls-buttons__smiles {
