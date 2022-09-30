@@ -16,6 +16,7 @@
 .chat-header__name {
   color: #fff;
   text-transform: uppercase;
+  text-align: center;
 }
 
 ::-webkit-scrollbar {
@@ -199,6 +200,8 @@
 .chat-controls-buttons__smiles img {
   height: 15px;
   width: 15px;
+  position: relative;
+
   z-index: 1;
 }
 
