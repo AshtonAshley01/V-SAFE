@@ -20,6 +20,31 @@ body {
 	margin: 0;
 	padding: 0;
 }
+
+#maps{
+	/* width: 500;
+	height: 500;
+	width="600" height="450" */
+	position: relative;
+	overflow: hidden;
+	width: 50%;
+	height: 50%;
+	padding-top: 56.25%;
+}
+
+#map-iframe{
+	/* width: 500;
+	height: 500; */
+	/* width="600" height="450" */
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	width: 50%;
+	height: 50%;
+}
+
 @font-face {
 	font-family: 'latoregular';
 	src: url('../fonts/lato-regular-webfont.eot');

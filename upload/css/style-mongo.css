@@ -324,7 +324,7 @@
   top: 10px;
 }
 
-html,
+/* html,
 body,
 div,
 span,
@@ -411,9 +411,9 @@ video {
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
-}
+} */
 
-article,
+/* article,
 aside,
 details,
 figcaption,
@@ -425,11 +425,11 @@ menu,
 nav,
 section {
   display: block;
-}
+} */
 
-body {
+/* body {
   line-height: 1;
-}
+} */
 
 ol,
 ul {
@@ -489,11 +489,11 @@ q:after {
   box-sizing: border-box;
 }
 
-body {
+/* body {
   background: #c5ddeb;
   font: 14px/20px "Lato", Arial, sans-serif;
   margin: 50px 0 20px 0;
-}
+} */
 
 
 /*# sourceMappingURL=style.ee53b4cd773cd6772237.css.map*/
